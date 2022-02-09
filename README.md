@@ -1,1 +1,1 @@
-Hi 
+This is a project that I was making as I learned Python3. Using the Pygame library and with the help of online resources (YT @codewithruss, Stackoverflow, and W3school) I was able to create 'Doodle Jump'. I wanted to re-program this game as it was a game that I played often as a child. 
