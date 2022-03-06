@@ -1,4 +1,4 @@
-This is a project that I was making as I learned Python3. Using the Pygame library and with the help of online resources (YT @codewithruss, Stackoverflow, and W3school) I was able to create 'Doodle Jump'. I wanted to re-program this game as it was a game that I played often as a child. 
+This is a project that I was making as I learned Python3. Using the Pygame library and with the help of online resources, (YT videos Russ, Stackoverflow, and W3school), I was able to create 'Doodle Jump'. I wanted to re-program this game as it was a game that I played often as a child. It involves a simple character bouncing based off the platforms and continues to move upwards as long as there is a platform in contanct before the next jump, these platforms are randomly generated before the game begins and as the game proceeds further. Once a certain score has been achieved, the game will deploy horizontally moving platforms which are also radomly generated as the game proceeds further. 
 
 Game Play:
 
